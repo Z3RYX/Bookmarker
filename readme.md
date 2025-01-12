@@ -12,6 +12,8 @@
 - **Edit and Delete**: Modify bookmark titles, priorities, or remove them entirely.
 - **Visited Tracking**: Automatically marks a bookmark as visited when clicked.
 
+![screenshot](images/screenshot.png)
+
 ---
 
 ## Installation
